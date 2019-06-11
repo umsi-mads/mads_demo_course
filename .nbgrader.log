@@ -1,0 +1,3 @@
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/mads_demo_course/workspace_files/autograded_assignments/source/assignment1/assignment1.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3

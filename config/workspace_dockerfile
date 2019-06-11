@@ -1,0 +1,12 @@
+FROM 984027468541.dkr.ecr.us-east-1.amazonaws.com/mads-notebook:latest
+
+# Run any root commands here
+USER root
+RUN apt-get update
+
+# Run any NB_USER commands here
+USER $NB_USER
+COPY requirements.txt /tmp/requirements.txt 
+
+# Install requirements.txt
+RUN conda install --file /tmp/requirements.txt

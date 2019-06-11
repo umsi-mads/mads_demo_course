@@ -1,0 +1,18 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      # Download install script from s3
+       - aws s3 cp s3://$S3_BUILD_BUCKET/install.sh install.sh && chmod +x install.sh
+       - ./install.sh
+  pre_build:
+    commands:
+       - ./pre_build.sh
+  build:
+    commands:
+      - ./build.sh
+  post_build:
+    commands:
+       - ./post_build.sh
+
