@@ -1,0 +1,24 @@
+[ValidateApp | INFO] Validating '/home/jovyan/mads_demo_course/workspace_files/autograded_assignments/source/assignment1/assignment1.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/source/./assignment1/jupyter.png -> /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/release/./assignment1/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment1': {}
+[AssignApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/source/./assignment1/assignment1.ipynb
+[AssignApp | INFO] Writing 7193 bytes to /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/release/./assignment1/assignment1.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
+[AutogradeApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/submitted/test_case_1/assignment1/jupyter.png -> /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/autograded/test_case_1/assignment1/jupyter.png
+[AutogradeApp | INFO] Creating/updating student with ID 'test_case_1': {}
+[AutogradeApp | INFO] Overwriting files with master versions from the source directory
+[AutogradeApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/source/./assignment1/jupyter.png -> /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/autograded/test_case_1/assignment1/jupyter.png
+[AutogradeApp | INFO] Sanitizing /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/submitted/test_case_1/assignment1/assignment1.ipynb
+[AutogradeApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/submitted/test_case_1/assignment1/assignment1.ipynb
+[AutogradeApp | WARNING] Attribute 'checksum' for cell correct_sum_of_squares has changed! (should be: 0a0e6635827b459040cd1f52b7b5c8ae, got: 76ea0bb1892bb7e44dd6689ce8d6a8d8)
+[AutogradeApp | INFO] Writing 7453 bytes to /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/autograded/test_case_1/assignment1/assignment1.ipynb
+[AutogradeApp | INFO] Autograding /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/autograded/test_case_1/assignment1/assignment1.ipynb
+[AutogradeApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/autograded/test_case_1/assignment1/assignment1.ipynb
+[AutogradeApp | INFO] Executing notebook with kernel: python3
+[AutogradeApp | INFO] Writing 13066 bytes to /home/jovyan/mads_demo_course/workspace_files/autograded_assignments/autograded/test_case_1/assignment1/assignment1.ipynb
+[AutogradeApp | INFO] Setting destination file permissions to 444
+[ValidateApp | INFO] Validating '/home/jovyan/mads_demo_course/workspace_files/autograded_assignments/autograded/test_case_1/assignment1/assignment1.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ExportApp | INFO] Using exporter: CsvExportPlugin
+[ExportApp | INFO] Exporting grades to grades.csv
