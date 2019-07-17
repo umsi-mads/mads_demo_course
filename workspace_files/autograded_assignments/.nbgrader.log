@@ -22,3 +22,8 @@
 [ValidateApp | INFO] Executing notebook with kernel: python3
 [ExportApp | INFO] Using exporter: CsvExportPlugin
 [ExportApp | INFO] Exporting grades to grades.csv
+[AssignApp | INFO] Copying /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/autograded_assignments/source/./assignment2/jupyter.png -> /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/autograded_assignments/release/./assignment2/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment2': {}
+[AssignApp | INFO] Converting notebook /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/autograded_assignments/source/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Writing 7193 bytes to /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/autograded_assignments/release/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
