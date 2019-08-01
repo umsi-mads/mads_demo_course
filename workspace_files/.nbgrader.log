@@ -1,0 +1,16 @@
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/source/./assigntments/source/assignment1'
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | DEBUG] Searching ['/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files', '/Users/millergd/.jupyter', '/Users/millergd/anaconda3/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files
+[AssignApp | DEBUG] Looking for jupyter_config in /etc/jupyter
+[AssignApp | DEBUG] Looking for jupyter_config in /usr/local/etc/jupyter
+[AssignApp | DEBUG] Looking for jupyter_config in /Users/millergd/anaconda3/etc/jupyter
+[AssignApp | DEBUG] Looking for jupyter_config in /Users/millergd/.jupyter
+[AssignApp | DEBUG] Looking for jupyter_config in /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files
+[AssignApp | DEBUG] Looking for nbgrader_config in /etc/jupyter
+[AssignApp | DEBUG] Looking for nbgrader_config in /usr/local/etc/jupyter
+[AssignApp | DEBUG] Looking for nbgrader_config in /Users/millergd/anaconda3/etc/jupyter
+[AssignApp | DEBUG] Looking for nbgrader_config in /Users/millergd/.jupyter
+[AssignApp | DEBUG] Looking for nbgrader_config in /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files
+[AssignApp | DEBUG] Looking for nbgrader_config in /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files
+[AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/source/./assigntments/source/assignment1'
