@@ -78,3 +78,14 @@
 [ValidateApp | INFO] Executing notebook with kernel: python3
 [ExportApp | INFO] Using exporter: CsvExportPlugin
 [ExportApp | INFO] Exporting grades to grades.csv
+[ReleaseApp | WARNING] Creating exchange directory: /srv/nbgrader/exchange
+[ReleaseApp | CRITICAL] Could not create /srv/nbgrader/exchange, permission denied.
+[ReleaseApp | ERROR] nbgrader release failed
+[ReleaseApp | CRITICAL] Bad config encountered during initialization:
+[ReleaseApp | CRITICAL] Unrecognized flag: '--create'
+[AssignApp | WARNING] Removing existing assignment: /home/jovyan/mads_demo_course/workspace_files/assignments/release/assignment2
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment2/assets/jupyter.png -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment2/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment2': {}
+[AssignApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Writing 7200 bytes to /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
