@@ -31,3 +31,8 @@
 [AssignApp | INFO] Converting notebook /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assignment1.ipynb
 [AssignApp | INFO] Writing 7200 bytes to /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/release/./assignment1/assignment1.ipynb
 [AssignApp | INFO] Setting destination file permissions to 644
+[AssignApp | INFO] Copying /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment2/assets/jupyter.png -> /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/release/./assignment2/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment2': {}
+[AssignApp | INFO] Converting notebook /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Writing 7200 bytes to /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/release/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
