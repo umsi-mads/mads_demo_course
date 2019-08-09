@@ -1,3 +1,5 @@
+CPU Cores: 2
+
 Name: assignment1
 - Type: programming assignment
 - Grading: auto and manual
