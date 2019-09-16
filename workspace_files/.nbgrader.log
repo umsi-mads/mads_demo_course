@@ -14,3 +14,5 @@
 [AssignApp | DEBUG] Looking for nbgrader_config in /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files
 [AssignApp | DEBUG] Looking for nbgrader_config in /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files
 [AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/source/./assigntments/source/assignment1'
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/source/./assignment1'

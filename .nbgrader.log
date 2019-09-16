@@ -3,3 +3,43 @@
 [ValidateApp | INFO] Executing notebook with kernel: python3
 [AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/source/./assignment1'
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/source/./assignment1'
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/source/./assignment1'
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/source/./assignment1'
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | ERROR] No notebooks were matched by '/Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/source/./assignment1'
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | INFO] Copying /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assets/jupyter.png -> /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/release/./assignment1/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment1': {}
+[AssignApp | INFO] Converting notebook /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assignment1.ipynb
+[AssignApp | INFO] Writing 8130 bytes to /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/release/./assignment1/assignment1.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | INFO] Copying /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assets/jupyter.png -> /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release//./assignment1/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment1': {}
+[AssignApp | INFO] Converting notebook /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assignment1.ipynb
+[AssignApp | INFO] Writing 8130 bytes to /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release//./assignment1/assignment1.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | WARNING] Removing existing assignment: /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release/assignment1
+[AssignApp | INFO] Copying /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assets/jupyter.png -> /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release//./assignment1/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment1': {}
+[AssignApp | INFO] Converting notebook /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assignment1.ipynb
+[AssignApp | INFO] Writing 8130 bytes to /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release//./assignment1/assignment1.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | WARNING] Removing existing assignment: /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release/assignment1
+[AssignApp | INFO] Copying /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assets/jupyter.png -> /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release//./assignment1/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment1': {}
+[AssignApp | INFO] Converting notebook /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment1/assignment1.ipynb
+[AssignApp | INFO] Writing 8130 bytes to /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release//./assignment1/assignment1.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
+[AssignApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[AssignApp | INFO] Copying /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment2/assets/jupyter.png -> /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release//./assignment2/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment2': {}
+[AssignApp | INFO] Converting notebook /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/workspace_files/assignments/source/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Writing 6483 bytes to /Users/millergd/Desktop/MADS/mads_courses/mads_demo_course/tmp_release//./assignment2/assignment2.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
