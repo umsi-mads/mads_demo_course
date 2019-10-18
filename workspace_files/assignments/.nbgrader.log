@@ -89,3 +89,43 @@
 [AssignApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment2/assignment2.ipynb
 [AssignApp | INFO] Writing 7200 bytes to /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment2/assignment2.ipynb
 [AssignApp | INFO] Setting destination file permissions to 644
+[AssignApp | WARNING] Removing existing assignment: /home/jovyan/mads_demo_course/workspace_files/assignments/release/assignment1
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment1/assets/jupyter.png -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment1/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment1': {}
+[AssignApp | ERROR] Cannot modify existing assignment 'Assignment<assignment1>' because there are submissions associated with it
+[AssignApp | ERROR] There was an error processing assignment: /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment1
+[AssignApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.7/site-packages/nbgrader/converters/base.py", line 289, in convert_notebooks
+        self.init_assignment(gd['assignment_id'], gd['student_id'])
+      File "/opt/conda/lib/python3.7/site-packages/nbgrader/converters/assign.py", line 140, in init_assignment
+        self._clean_old_notebooks(assignment_id, student_id)
+      File "/opt/conda/lib/python3.7/site-packages/nbgrader/converters/assign.py", line 102, in _clean_old_notebooks
+        raise NbGraderException(msg)
+    nbgrader.converters.base.NbGraderException: Cannot modify existing assignment 'Assignment<assignment1>' because there are submissions associated with it
+    
+[AssignApp | WARNING] Removing failed assignment: /home/jovyan/mads_demo_course/workspace_files/assignments/release/assignment1
+[AssignApp | ERROR] There was an error processing assignment 'assignment1' for student '.'
+[AssignApp | ERROR] Please see the error log (.nbgrader.log) for details on the specific errors on the above failures.
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment1/assets/jupyter.png -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment1/assets/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'assignment1': {}
+[AssignApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment1/assignment1_part1.ipynb
+[AssignApp | INFO] Writing 8100 bytes to /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment1/assignment1_part1.ipynb
+[AssignApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment1/assignment1_part2.ipynb
+[AssignApp | INFO] Writing 4866 bytes to /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment1/assignment1_part2.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
+[AssignApp | WARNING] Removing existing assignment: /home/jovyan/mads_demo_course/workspace_files/assignments/release/assignment2
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment2/assets/assignment2_data2.csv -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment2/assets/assignment2_data2.csv
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment2/assets/assignment2_data2_readme.md -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment2/assets/assignment2_data2_readme.md
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment2/assets/assignment2_data1_readme.md -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment2/assets/assignment2_data1_readme.md
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment2/assets/assignment2_data1.csv -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment2/assets/assignment2_data1.csv
+[AssignApp | INFO] Updating/creating assignment 'assignment2': {}
+[AssignApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Writing 26591 bytes to /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment2/assignment2.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment3/assets/scimagojr-3.xlsx -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment3/assets/scimagojr-3.xlsx
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment3/assets/world_bank.csv -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment3/assets/world_bank.csv
+[AssignApp | INFO] Copying /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment3/assets/Energy Indicators.xls -> /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment3/assets/Energy Indicators.xls
+[AssignApp | INFO] Updating/creating assignment 'assignment3': {}
+[AssignApp | INFO] Converting notebook /home/jovyan/mads_demo_course/workspace_files/assignments/source/./assignment3/assignment3.ipynb
+[AssignApp | INFO] Writing 29764 bytes to /home/jovyan/mads_demo_course/workspace_files/assignments/release/./assignment3/assignment3.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644

@@ -6,19 +6,19 @@ c = get_config()
 
 # You only need this if you are running nbgrader on a shared
 # server set up.
-c.Exchange.course_id = "autograded_assignments"
-c.Exchange.course_id = "/home/jovyan/mads_demo_course/.exchange"
+# c.Exchange.course_id = "autograded_assignments"
+# c.Exchange.course_id = "/home/jovyan/mads_demo_course/.exchange"
 
 # Update this list with other assignments you want
-c.CourseDirectory.db_assignments = [dict(name="assignment1")]
+# c.CourseDirectory.db_assignments = [dict(name="assignment1")]
 
 # Change the students in this list with that actual students in
 # your course
-c.CourseDirectory.db_students = [
-    dict(id="test_case"),
-]
+# c.CourseDirectory.db_students = [
+#     dict(id="test_case"),
+# ]
 
-c.IncludeHeaderFooter.header = "source/header.ipynb"
+# c.IncludeHeaderFooter.header = "source/header.ipynb"
 
 ###############################################################################
 # End additions by nbgrader quickstart
