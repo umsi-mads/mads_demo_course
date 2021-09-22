@@ -9,4 +9,4 @@ USER $NB_USER
 COPY requirements.txt /tmp/requirements.txt 
 
 # Install requirements.txt
-RUN conda install --file /tmp/requirements.txt
+RUN mamba install --file /tmp/requirements.txt
