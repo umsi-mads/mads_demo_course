@@ -1,0 +1,5 @@
+build_env: production
+network_access: false
+require_perfect_score: true
+emails:
+  - avilada@umich.edu
